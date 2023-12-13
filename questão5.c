@@ -27,8 +27,8 @@ int main()
 
 
     printf("CARGOS DISPONIVEIS\n\n");
-    printf("PROGRAMADOR\n");
-    printf("ANALISTA\n");
+    printf("Programador\n");
+    printf("Analista\n");
 
 
 
@@ -64,7 +64,7 @@ int main()
         
     }
 
-     printf("Média salarial dos programadores: R$%.f\n", mediaSalario(soma, cont));
+     printf("\n\nMédia salarial dos programadores: R$%.f\n", mediaSalario(soma, cont));
 
   
 
